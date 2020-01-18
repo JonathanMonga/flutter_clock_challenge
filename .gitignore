@@ -45,7 +45,6 @@ lib/generated_plugin_registrant.dart
 flutter_clock_helper/pubspec.lock
 
 # Other items grabbed from flutter/flutter repo
-flutter_*.png
 linked_*.ds
 unlinked.ds
 unlinked_spec.ds
